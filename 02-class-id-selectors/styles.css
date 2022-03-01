@@ -1,9 +1,10 @@
-p {
+.odd {
     background-color: #ffb6c1;
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
 }
 
-.verdana {
-    font-family: Verdana, 'DejaVu Sans', sans-serif;
+.oddly-cool {
+    font-size: 24px;
 }
 
 #number2 {
